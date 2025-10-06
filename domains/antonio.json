@@ -1,0 +1,11 @@
+{
+  "description": "Intro page",
+  "domain": "antonio.is-a.dev",
+  "subdomain": "antonio",
+  "owner": {
+    "email": "narnomx@gmail.com"
+  },
+  "record": {
+    "CNAME": "lab-intro.narnomx.workers.dev"
+  }
+}
