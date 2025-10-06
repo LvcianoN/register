@@ -1,0 +1,11 @@
+{
+  "description": "Cloudflare Worker for Experiment Repository",
+  "domain": "narno.is-a.dev",
+  "subdomain": "narno",
+  "owner": {
+    "email": "luciano@narno.dev"
+  },
+  "record": {
+    "CNAME": "lab-intro.narnomx.workers.dev"
+  }
+}
